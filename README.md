@@ -15,14 +15,9 @@
 
 ## Projects
 
-- 🎬 **[anirohi](https://github.com/noelrohi/anirohi)** — anime streaming app with clean UI, ⌘K search, PWA support. next.js + tailwind + shadcn/ui `244⭐`
+- 🎬 **[anirohi](https://github.com/noelrohi/anirohi)** — anime streaming app with clean UI, ⌘K search, and PWA support. next.js + tailwind + shadcn/ui `244⭐`
 - 🌐 **[www](https://github.com/noelrohi/www)** — my personal site at [noelrohi.com](https://noelrohi.com). next.js + shadcn/ui + content collections `42⭐`
 - 🎨 **[dilag](https://github.com/noelrohi/dilag)** — design studio monorepo with apps + shared ui package
-- 🧠 **[knotwork](https://github.com/noelrohi/knotwork)** — local-first knowledge management with hybrid search (BM25 + vector embeddings)
-- 💰 **[salapi](https://github.com/noelrohi/salapi)** — iOS personal finance tracker with bilingual support (english/tagalog)
-- 🔧 **[slownyt](https://github.com/noelrohi/slownyt)** — macOS menu bar app to diagnose npm download slowness
-- 📺 **[cinebase](https://github.com/noelrohi/cinebase)** — movie, TV & anime tracking app
-- 🎮 **[simon](https://github.com/noelrohi/simon)** — the classic memory game, rebuilt
 
 ## GitHub Activity
 
