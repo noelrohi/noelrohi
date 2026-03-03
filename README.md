@@ -1,52 +1,37 @@
-# hey, i'm noel 👋
+# hey, i'm noel
 
-📍 **Philippines** | **fullstack dev** | i build things and ship them
+dev from the Philippines. i build web apps and anime tools, and i name most of my projects in Tagalog.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
-> less talk, more deploy. if it works and users are happy, that's the whole point.
 
 ## Projects
 
-- 🎬 **[anirohi](https://github.com/noelrohi/anirohi)** — anime streaming app with clean UI, ⌘K search, and PWA support. next.js + tailwind + shadcn/ui `244⭐`
-- 🌐 **[www](https://github.com/noelrohi/www)** — my personal site at [noelrohi.com](https://noelrohi.com). next.js + shadcn/ui + content collections `42⭐`
-- 🎨 **[dilag](https://github.com/noelrohi/dilag)** — design studio monorepo with apps + shared ui package
+- **[anirohi](https://github.com/noelrohi/anirohi)** — anime streaming app with command menu search and PWA support. basically my excuse to watch anime and call it testing. `244 stars`
+- **[www](https://github.com/noelrohi/www)** — my corner of the internet at [noelrohi.com](https://noelrohi.com)
+- **[dilag](https://github.com/noelrohi/dilag)** — design studio monorepo. "dilag" means radiance in Tagalog, which is a bit dramatic for a repo name but here we are
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/noelrohi)
 
-## What I'm Up To
-
-- shipping fullstack apps with next.js, tailwind, and bun
-- experimenting with swift for native macOS/iOS tools
-- building with AI agents and agentic workflows
-- probably refactoring something right now
-
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-@noelrohi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noelrohi)
 [![Twitter](https://img.shields.io/badge/-@noelrohi-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/noelrohi)
 [![Website](https://img.shields.io/badge/-noelrohi.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://noelrohi.com)
 
 ---
 
 <details>
-<summary>random facts</summary>
+<summary>more about me</summary>
 
-- mass consumer of iced coffee
-- tabs over spaces, fight me
-- dark mode everything, always
-- will mass-rename variables at 2am and call it productivity
-- filipino dev who names projects in tagalog (salapi, dilag, angas, paputok...)
+- Filipino dev who names projects in Tagalog — salapi (money), dilag (radiance), angas (swagger), paputok (fireworks). sounds cooler than "utils" and "app-v2"
+- mass consumer of iced coffee regardless of weather
+- 89 repos, most of them private experiments that will never see the light of day
+- currently messing around with Swift for native apps
+- i don't have a dev philosophy. i just like making things that work
 
 </details>
-
-> "ship beats perfect."
