@@ -21,6 +21,7 @@ dev from the Philippines. i build web apps and anime tools, and i name most of m
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@noelrohi-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/noelrohi)
+[![LinkedIn](https://img.shields.io/badge/-noelrohi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noelrohi)
 [![Website](https://img.shields.io/badge/-noelrohi.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://noelrohi.com)
 
 ---
